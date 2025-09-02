@@ -13,7 +13,7 @@ A stunning web application for discovering amazing albums using AI-powered recom
 
 ## 🎨 Design Features
 
-### Y2K Aesthetic Elements:
+### Aesthetic Elements:
 - **Light Blue Color Palette**: Primary blue, light blue, sky blue, soft blue variations
 - **Glitch Effects**: Subtle animated text distortions on the title
 - **CRT Monitor**: Scanline overlay effect
@@ -24,7 +24,7 @@ A stunning web application for discovering amazing albums using AI-powered recom
 ### Interactive Elements:
 - **Hover Effects**: Cards lift and glow on hover
 - **Animated Buttons**: Pulsing neon borders and glows
-- **Loading States**: Retro spinner with Y2K styling
+- **Loading States**: Retro spinner 
 - **Form Focus**: Neon glow on input focus
 
 ## 🎵 How It Works
