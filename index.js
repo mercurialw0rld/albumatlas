@@ -4,9 +4,6 @@ import { createClient } from "@supabase/supabase-js";
 
 // Initialize Supabase and Google GenAI clients
 // Replace with your actual credentials
-const supabaseUrl = "https://svdvafrlpeimpjlojuvo.supabase.co";
-const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN2ZHZhZnJscGVpbXBqbG9qdXZvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTY3NjUxNTAsImV4cCI6MjA3MjM0MTE1MH0.7-k7LETq3Wbns_ijv3lMGZPE9vrAFf7qivasm8VA8Uc";
-const genAiApiKey = "AIzaSyCiTs1o2KodHXynWD0MaCyDX_SMan4vuz4";
 
 const supabase = createClient(supabaseUrl, supabaseKey);
 const genAI = new GoogleGenerativeAI(genAiApiKey);
