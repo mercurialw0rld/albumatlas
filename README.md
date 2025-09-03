@@ -2,6 +2,7 @@
 
 A stunning web application for discovering amazing albums using AI-powered recommendations. Built with a sophisticated light-blue dark theme and intelligent music discovery.
 
+<img src="screenshot.png">
 
 ## ✨ Features
 
